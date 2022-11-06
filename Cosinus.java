@@ -18,3 +18,4 @@ public class Cosinus {
      return(n * fac(n-1));    
  }     
 }
+
